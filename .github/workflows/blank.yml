@@ -24,6 +24,7 @@ DEBUT
 
   Lire nombreSaisi
     tant que nombreSaisi différent de 1
+    tant que nombreSaisi>0
     Répéter Afficher le texte "Bienvenue à la wild"
     nombreSaisi<-nombreSaisi-1
   
